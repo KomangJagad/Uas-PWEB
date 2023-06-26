@@ -1,0 +1,23 @@
+[
+    {
+        "id_pelanggan": "1213231",
+        "nama_pelanggan": "dewok",
+        "jenis_kelamin": "Laki-laki",
+        "alamat_pelanggan": "dawdwd",
+        "telpon_pelanggan": "123123"
+    },
+    {
+        "id_pelanggan": "123123",
+        "nama_pelanggan": "Jagad",
+        "jenis_kelamin": "Laki-laki",
+        "alamat_pelanggan": "trenggana",
+        "telpon_pelanggan": "124124"
+    },
+    {
+        "id_pelanggan": "01",
+        "nama_pelanggan": "agus okta",
+        "jenis_kelamin": "Laki-laki",
+        "alamat_pelanggan": "sidekarye",
+        "telpon_pelanggan": "0987682657"
+    }
+]

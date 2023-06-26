@@ -1,0 +1,16 @@
+[
+    {
+        "id_pembelian": "PB001",
+        "id_pelanggan": "1",
+        "id_barang": "BRG01",
+        "tanggal_pembelian": "2022-12-01",
+        "jumlah_pembelian": "5"
+    },
+    {
+        "id_pembelian": "PB002",
+        "id_pelanggan": "2",
+        "id_barang": "BRG02",
+        "tanggal_pembelian": "2022-12-02",
+        "jumlah_pembelian": "3"
+    }
+]

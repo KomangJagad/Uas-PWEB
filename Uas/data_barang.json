@@ -1,0 +1,11 @@
+[
+    {
+        "id_barang": "BRG02",
+        "nama_barang": "Samsung S23",
+        "tipe_barang": "Laki-laki",
+        "tanggal_terima": "20-12-2023",
+        "stock_barang": "21",
+        "harga_barang": "21000000",
+        "supplier": "SUP01"
+    }
+]

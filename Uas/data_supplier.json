@@ -1,0 +1,12 @@
+[
+    {
+        "id_supplier": "SUP01",
+        "nama_supplier": "Supplier 1",
+        "alamat_supplier": "Jalan Supplier 1 No. 123"
+    },
+    {
+        "id_supplier": "SUP02",
+        "nama_supplier": "Supplier 2",
+        "alamat_supplier": "Jalan Supplier 2 No. 456"
+    }
+]
